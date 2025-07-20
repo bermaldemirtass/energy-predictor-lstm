@@ -1,0 +1,24 @@
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+
+# Logs
+*.log
+
+# Environments
+.env
+
+# Large files
+*.csv
+
