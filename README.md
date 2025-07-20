@@ -50,22 +50,24 @@ UCI Appliances Energy Prediction Dataset
 
 
 
-📈 Sample Output
-
-The plot below compares the predicted vs actual energy consumption over the first 100 hours of the dataset.
-📊 Evaluation Metric: Mean Squared Error (MSE) was used to quantify the model's prediction accuracy.
-This sample output demonstrates that the LSTM model captures underlying time-based patterns in energy usage effectively.
 
 
 ---
 
 🔍 Model Prediction Result
 
-The plot below compares the model’s predicted and actual hourly energy consumption values. It provides a clear visual indication that the LSTM model successfully captures time-dependent patterns and fluctuations. This level of forecasting is critical for:
-* Smart grid management
-* Real-time energy optimization
-* Reducing operational costs through predictive insights
+ 🔍 Model Prediction Result
 
+The plot below compares the predicted and actual hourly energy consumption over the first 100 hours of the dataset.
+
+📊 Evaluation Metric: Mean Squared Error (MSE) was used to evaluate model performance.
+
+This output demonstrates that the LSTM model successfully captures time-dependent patterns in energy usage.  
+Such forecasting is essential for:
+
+- ⚡ Smart grid management  
+- ⏱ Real-time energy optimization  
+- 💸 Reducing operational costs through predictive insights
 
 ![Tahmin Görseli](prediction_plot.png)
 
