@@ -39,3 +39,15 @@ UCI Appliances Energy Prediction Dataset
 > Model accuracy evaluated with MSE loss.
 
 
+---
+
+## 🔍 Model Tahmin Sonucu
+
+![Tahmin Görseli](prediction_plot.png)
+
+---
+
+## 📉 Eğitim Süreci
+
+![Eğitim Loss Grafiği](training_loss_plot.png)
+
