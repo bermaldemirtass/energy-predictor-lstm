@@ -51,3 +51,9 @@ UCI Appliances Energy Prediction Dataset
 
 ![Eğitim Loss Grafiği](training_loss_plot.png)
 
+### 📉 Validation vs Training Loss
+
+This plot shows the model's training and validation loss over epochs, demonstrating both the learning process and the generalization performance of the LSTM model.
+
+![Validation vs Training Loss](val_vs_train_loss.png)
+
