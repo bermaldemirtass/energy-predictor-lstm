@@ -54,7 +54,6 @@ UCI Appliances Energy Prediction Dataset
 
 ---
 
-🔍 Model Prediction Result
 
  🔍 Model Prediction Result
 
